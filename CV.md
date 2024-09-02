@@ -63,7 +63,7 @@ Soy un programador orientado a resultados, con habilidades para presentar ideas 
   - Participé en proyectos prácticos para aplicar conocimientos teóricos y desarrollar habilidades prácticas en la creación de aplicaciones innovadoras y fáciles de usar.
   - Prácticas realizadas en Galvintec, Vigo.
  
-  - - **Grado Técnico Superior en Desarrollo de Aplicaciones Web, Colegio Marcote de Vigo**  
+- **Grado Técnico Superior en Desarrollo de Aplicaciones Web, Colegio Marcote de Vigo**  
   *Septiembre de 2023 - Agosto de 2024*
   - Completé con éxito el programa, especializándome en el desarrollo de aplicaciones web, en solo 1 año, debido al primer año de convalidaciones.
   - Prácticas realizadas en Asysgon, Vigo.
